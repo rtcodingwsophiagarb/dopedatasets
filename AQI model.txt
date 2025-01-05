@@ -1,0 +1,120 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+from sklearn.model_selection import train_test_split, GridSearchCV
+from sklearn.ensemble import RandomForestRegressor
+from sklearn.preprocessing import StandardScaler
+from sklearn.metrics import mean_squared_error, r2_score
+import numpy as np
+
+# Load the dataset
+data_path = '/content/air_quality_data_with_replaced_cities.csv'  # Update the path if needed
+df = pd.read_csv(data_path)
+
+# Clean city names in the dataframe
+df['City'] = df['City'].str.strip().str.lower()
+
+# Add some noise to the target variable to introduce variability
+np.random.seed(42)
+noise = np.random.normal(0, 0.5, df['AQI'].shape)
+df['AQI'] += noise
+
+# Ensure AQI is still within a realistic range
+df['AQI'] = df['AQI'].clip(lower=0)
+
+# Display the first few rows of the dataframe
+print("Data Head:\n", df.head())
+
+def print_aqi_for_city(city_name, good_aqi_threshold=50):
+    # Convert city name to lowercase and strip leading/trailing spaces
+    city_name = city_name.strip().lower()
+
+    # Debugging information
+    print(f"Looking for city: {city_name}")
+
+    city_data = df[df['City'] == city_name]
+    if not city_data.empty:
+        aqi = city_data['AQI'].values[0]
+        if aqi <= good_aqi_threshold:
+            print(f"The AQI for {city_name} is {aqi}. The air quality is good.")
+        else:
+            print(f"The AQI for {city_name} is {aqi}. The air quality is not good.")
+    else:
+        print(f"No data available for {city_name}.")
+
+# Prepare data for modeling
+X = df.drop(columns=['AQI', 'City'])
+y = df['AQI']
+
+# Ensure all columns in X are numeric
+X = X.apply(pd.to_numeric, errors='coerce')
+
+# Drop any rows with NaN values (if any were introduced by the conversion)
+X = X.dropna()
+
+# Split the dataset into training and testing sets
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+
+# Standardize the features
+scaler = StandardScaler()
+X_train_scaled = scaler.fit_transform(X_train)
+X_test_scaled = scaler.transform(X_test)
+
+# Hyperparameter tuning for RandomForestRegressor
+param_grid = {
+    'n_estimators': [50, 100, 200],
+    'max_depth': [None, 10, 20, 30],
+    'min_samples_split': [2, 5, 10],
+    'min_samples_leaf': [1, 2, 4]
+}
+
+model = RandomForestRegressor(random_state=42)
+grid_search = GridSearchCV(estimator=model, param_grid=param_grid, cv=5, n_jobs=-1, scoring='r2')
+grid_search.fit(X_train_scaled, y_train)
+
+# Best model after hyperparameter tuning
+best_model = grid_search.best_estimator_
+
+# Predict and evaluate
+y_pred = best_model.predict(X_test_scaled)
+mse = mean_squared_error(y_test, y_pred)
+r2 = r2_score(y_test, y_pred)
+
+print(f"Best Parameters: {grid_search.best_params_}")
+print(f"Model Evaluation:\nMean Squared Error: {mse}\nR-squared: {r2}")
+
+
+# Define thresholds for good and poor AQI
+good_aqi_threshold = 50
+poor_aqi_threshold = 100
+
+# Separate cities
+good_aqi_cities = df[df['AQI'] <= good_aqi_threshold]['City']
+poor_aqi_cities = df[df['AQI'] >= poor_aqi_threshold]['City']
+
+print(f"Cities with good AQI (<= {good_aqi_threshold}):\n", good_aqi_cities)
+print(f"Cities with poor AQI (>= {poor_aqi_threshold}):\n", poor_aqi_cities)
+
+# Visualization
+plt.figure(figsize=(12, 6))
+
+# AQI Distribution
+sns.histplot(df['AQI'], kde=True)
+plt.title('AQI Distribution')
+plt.xlabel('AQI')
+plt.ylabel('Frequency')
+plt.show()
+
+# Scatter plot of Temperature vs AQI colored by good/poor AQI
+df['AQI_Category'] = df['AQI'].apply(lambda x: 'Good' if x <= good_aqi_threshold else 'Poor')
+sns.scatterplot(data=df, x='Temperature', y='AQI', hue='AQI_Category')
+plt.title('Temperature vs AQI')
+plt.xlabel('Temperature')
+plt.ylabel('AQI')
+plt.show()
+
+# Example usage
+print_aqi_for_city('lahore')  # Replace 'model town' with the desired city name in lowercase
+
+# Print the model evaluation metrics
+print(f"Model Evaluation:\nMean Squared Error: {mse}\nR-squared: {r2}")
