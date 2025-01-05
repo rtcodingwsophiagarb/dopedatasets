@@ -1,0 +1,1001 @@
+food_name,cultural_category,calories,carbs (gm),fats(gm),protein(gm),fibre(gm),iron(mg),sodium(mg),sugar(mg)
+Naan,Indian,557,48,7,14,2,2.416069952,318,5
+Kerala Fish Fry,Indian,339,20,5,15,6,2.599791945,324,25
+Biryani,Indian,472,58,8,12,1,2.178696941,395,18
+Misal Pav,Indian,333,74,15,29,7,2.77391831,251,27
+Aloo Gobi,Indian,437,35,20,15,7,1.573588378,353,8
+Gulab Jamun,Indian,310,40,18,10,5,2.021546749,490,5
+Gond Ke Laddu,Indian,366,56,19,12,2,1.2950366,277,28
+Vada Pav,Indian,304,76,12,9,8,2.615976869,397,28
+Vada Pav,Indian,212,66,14,29,3,1.390320461,55,29
+Nihari,Indian,406,61,17,28,1,2.448119044,122,22
+Uttapam,Indian,372,50,5,10,1,2.590368332,187,28
+Rogan Ghosht,Indian,350,40,24,9,9,2.143333202,332,18
+Moong Dal Halwa,Indian,210,49,7,25,4,2.874264767,208,4
+Nihari,Indian,309,25,24,29,6,2.969343614,128,37
+Kadhi Pakora,Indian,576,21,6,26,2,1.810494045,75,24
+Idli,Indian,598,74,23,28,4,1.951150058,490,34
+Upma,Indian,359,29,14,14,5,3.170893337,429,38
+Pav Bhaji,Indian,425,43,14,7,8,3.037237813,484,24
+Kerala Fish Fry,Indian,423,54,7,25,6,3.369904833,331,37
+Dhokla,Indian,430,76,18,24,5,1.384295746,52,9
+Kachori,Indian,597,56,22,21,7,3.83278872,494,12
+Nihari,Indian,367,65,11,9,9,3.31091139,91,3
+Vada Pav,Indian,375,73,21,10,6,1.193248431,437,31
+Naan,Indian,293,69,17,9,8,1.555149664,468,7
+Sheer Khurma,Indian,401,63,6,25,7,0.891236218,240,26
+Quesadillas,Mexican,260,20,10,5,5,3.197951263,172,27
+Marquesitas,Mexican,452,25,20,29,2,2.037406749,92,32
+Tacos,Mexican,295,34,21,21,6,3.66638935,317,35
+Elote,Mexican,262,48,24,10,2,3.660871668,119,13
+Agua Fresca,Mexican,294,41,16,12,8,1.716908529,395,2
+Atole,Mexican,284,69,10,13,5,3.287883737,184,8
+Mole,Mexican,317,52,21,6,8,3.461576756,384,8
+Chocoflan,Mexican,358,74,13,7,9,0.65139544,193,4
+Tlayudas,Mexican,381,76,6,25,6,3.403344179,265,17
+Capirotada,Mexican,549,76,22,13,2,3.475374202,354,30
+Menudo,Mexican,283,23,12,8,4,1.695918415,51,22
+Quesadillas,Mexican,556,70,14,6,3,1.962720712,316,15
+Quesadillas,Mexican,587,35,15,28,8,0.902782402,67,33
+Caldo de Res,Mexican,229,47,9,21,8,1.043887056,275,19
+Tostadas,Mexican,474,35,16,16,9,2.006342604,222,0
+Tamale Pie,Mexican,266,24,13,12,2,1.845013362,436,39
+Chocoflan,Mexican,562,71,8,18,7,3.063744935,221,27
+Atole,Mexican,346,71,10,6,8,2.057251412,371,12
+Tinga de Pollo,Mexican,297,78,16,18,5,1.288769332,320,27
+Sopa Azteca,Mexican,230,41,7,27,2,2.98835928,359,14
+Chilaquiles,Mexican,429,47,5,20,8,0.528021451,374,26
+Al Pastor Tacos,Mexican,528,77,10,18,3,2.551479941,424,20
+Chilorio,Mexican,593,23,5,28,9,2.262010189,496,25
+Guacamole,Mexican,336,56,23,24,2,1.407351767,486,0
+Tlayudas,Mexican,352,30,22,26,6,1.394815931,106,25
+Brodetto,Italian,242,59,5,20,3,2.765925627,259,21
+Pappardelle,Italian,366,24,19,19,3,2.242000953,169,36
+Farinata,Italian,378,59,6,13,6,1.800583614,399,3
+Piadina,Italian,245,65,14,28,7,1.089158036,270,4
+Cannoli,Italian,352,70,17,29,4,1.397976282,415,15
+Focaccia,Italian,317,27,21,12,2,1.597790963,338,29
+Truffle Pasta,Italian,404,66,16,14,7,2.74913167,175,39
+Panna Cotta,Italian,335,70,24,17,7,2.312561946,85,23
+Suppli,Italian,306,22,11,12,7,2.185019346,316,8
+Zabaglione,Italian,492,33,19,18,4,1.679371955,304,32
+Crostata,Italian,379,41,12,28,2,0.601247712,303,11
+Saltimbocca,Italian,509,54,6,14,2,3.082055648,180,29
+Pizza,Italian,265,23,24,9,5,3.938789423,400,24
+Scaloppine,Italian,312,58,24,14,4,3.070394649,312,11
+Porchetta,Italian,256,77,22,6,4,1.763222488,432,8
+Amaretti Cookies,Italian,343,35,9,6,7,2.437053729,391,16
+Piadina,Italian,303,46,18,14,2,2.288779008,56,2
+Risotto,Italian,494,62,9,24,2,0.572040438,56,25
+Panettone,Italian,247,25,21,27,9,2.443957316,481,4
+Panettone,Italian,547,21,5,6,8,3.727074051,492,10
+Prosciutto e Melone,Italian,390,60,16,25,4,1.81212564,187,18
+Torta della Nonna,Italian,220,71,19,19,1,1.459317425,310,11
+Frittata,Italian,509,51,5,22,6,2.875288931,497,4
+Pizza,Italian,558,69,15,11,1,2.769268072,300,24
+Brodetto,Italian,596,58,17,27,3,2.361290501,361,26
+Chili Crab,Chinese,418,62,11,28,3,3.926338768,470,19
+Egg Drop Soup,Chinese,276,68,11,15,3,3.340111587,145,12
+Char Siu,Chinese,461,42,11,7,7,2.951174856,283,39
+Char Kway Teow,Chinese,537,33,15,7,3,1.242247613,216,11
+Mapo Tofu,Chinese,319,21,18,23,8,1.253242012,487,37
+Hot Pot,Chinese,343,42,20,9,1,2.93370481,56,28
+Tangyuan,Chinese,439,51,22,28,1,1.563075435,97,27
+Shumai,Chinese,543,71,10,6,9,0.625031132,336,29
+Zongzi,Chinese,279,22,5,16,7,2.973108175,369,1
+Wonton Soup,Chinese,273,50,18,29,9,2.46604631,415,25
+Tangyuan,Chinese,532,35,21,16,3,2.614354445,213,9
+Kung Pao Chicken,Chinese,427,38,21,17,6,3.59509607,488,39
+Lo Mein,Chinese,425,54,20,23,1,1.087781481,368,15
+Chinese Dumplings,Chinese,443,35,16,18,5,2.84248062,246,23
+Hot Pot,Chinese,466,24,6,19,1,2.749584561,289,31
+Dan Dan Noodles,Chinese,247,68,21,16,8,2.723598035,237,0
+Congee,Chinese,200,35,12,27,2,2.352432366,382,39
+Char Siu,Chinese,295,46,20,9,2,2.631253588,439,13
+Moo Shu Pork,Chinese,410,63,5,16,9,3.677426811,270,15
+General Tso's Chicken,Chinese,251,43,24,14,4,1.851135475,216,28
+Peking Duck,Chinese,299,34,5,12,6,2.374981266,174,3
+Ma Po Eggplant,Chinese,384,26,5,25,4,3.33243138,165,34
+Chili Crab,Chinese,483,69,5,20,8,2.479903592,441,5
+Tea Eggs,Chinese,435,43,13,5,4,1.776357135,413,22
+Fried Rice,Chinese,304,60,17,5,2,0.80833897,309,14
+Sukiyaki,Japanese,340,38,15,27,3,1.471321594,228,12
+Tamago Sushi,Japanese,350,40,23,29,5,2.36743752,325,23
+Dango,Japanese,202,69,12,27,4,3.224738355,100,30
+Tonkatsu,Japanese,375,59,12,21,6,3.735898366,165,2
+Zaru Soba,Japanese,207,72,6,26,6,1.855093308,342,0
+Ika Somen,Japanese,582,60,15,25,7,3.865359011,238,21
+Okonomiyaki,Japanese,287,28,16,24,4,1.47441366,72,35
+Soba,Japanese,361,71,6,25,4,1.562504691,220,23
+Hokke,Japanese,243,52,22,15,9,3.014855726,225,10
+Sukiyaki,Japanese,291,40,12,12,9,2.541493762,353,27
+Omurice,Japanese,534,39,24,15,2,1.081556065,473,17
+Wagashi,Japanese,239,27,19,11,6,0.966979718,329,4
+Mochi,Japanese,598,45,24,18,6,3.833842939,447,39
+Karaage,Japanese,594,25,22,20,6,2.314193386,489,37
+Fugu,Japanese,294,41,21,11,9,2.855583094,93,11
+Hiyayakko,Japanese,264,70,14,24,2,1.042778736,455,13
+Ika Somen,Japanese,314,41,22,12,3,2.337972275,289,20
+Kaiseki,Japanese,418,20,17,16,2,2.075126096,197,0
+Tsukemen,Japanese,315,39,7,25,6,2.792944018,51,11
+Chanko Nabe,Japanese,263,27,6,28,6,3.001207006,153,8
+Tsukemen,Japanese,422,54,5,10,6,1.325283097,192,36
+Yakisoba,Japanese,493,54,10,8,9,1.850386571,490,35
+Fugu,Japanese,580,57,21,24,5,2.575109909,242,21
+Onigiri,Japanese,595,29,24,10,9,1.6987897,210,33
+Fugu,Japanese,284,51,21,10,5,1.726794548,291,33
+Gamjatang,Korean,478,55,5,13,6,2.303893632,476,12
+Makgeolli,Korean,548,49,24,5,6,2.874787267,59,24
+Bulgogi,Korean,364,31,8,15,1,0.935876845,249,28
+Pajeon,Korean,543,70,6,21,8,1.484599478,472,3
+Yangnyeom Galbi,Korean,222,46,7,13,3,3.759482269,222,23
+Kimchi Jjigae,Korean,584,32,11,18,4,3.606005266,78,33
+Jokbal,Korean,310,76,20,10,9,3.613672852,192,0
+Bibimbap,Korean,541,66,8,26,6,2.778277624,57,2
+Dotorimuk,Korean,398,41,6,9,9,1.749493445,387,8
+Sundubu Jjigae,Korean,365,64,11,18,5,3.730612793,77,20
+Cheonggukjang,Korean,491,59,9,26,1,3.737233501,488,6
+Hotteok,Korean,370,67,11,5,2,0.870629271,50,39
+Kimchi Jjigae,Korean,414,75,8,24,4,1.086074136,156,39
+Gimbap,Korean,541,63,15,13,7,2.114988845,60,37
+Pajeon,Korean,328,51,7,16,8,3.517869562,278,11
+Yangnyeom Galbi,Korean,472,27,15,20,1,2.115183372,128,5
+Kimchi,Korean,272,78,19,18,7,2.110332049,248,0
+Japchae,Korean,306,30,6,22,5,3.779357,492,20
+Jjigae,Korean,255,58,6,26,5,3.563150887,216,25
+Pajeon,Korean,461,28,14,12,3,1.948222728,492,39
+Haejang-guk,Korean,337,39,9,19,5,1.015738927,50,5
+Jumeokbap,Korean,359,26,9,11,4,3.113069545,165,4
+Makgeolli,Korean,346,54,6,29,8,3.979677345,74,3
+Haemul Pajeon,Korean,334,50,10,16,1,1.84240075,272,9
+Sundubu Jjigae,Korean,569,43,13,8,9,3.219608186,226,17
+Spanakopita,Mediterranean,518,33,18,20,6,2.409379602,493,35
+Muhammara,Mediterranean,454,31,17,13,8,1.679902122,448,24
+Pita Bread,Mediterranean,394,72,23,22,2,3.984812473,186,12
+Tahini Sauce,Mediterranean,428,63,22,12,1,3.339699594,112,27
+Moussaka,Mediterranean,583,54,24,23,9,1.728421838,481,18
+Bourekas,Mediterranean,241,76,22,12,5,3.338296629,278,31
+Grilled Eggplant Salad,Mediterranean,521,59,18,14,7,2.973819143,492,25
+Imam Bayildi,Mediterranean,333,72,24,17,4,2.220000347,284,35
+Kofta,Mediterranean,503,60,17,8,2,1.499109318,186,22
+Kofta,Mediterranean,498,48,15,18,8,1.930296938,287,10
+Falafel,Mediterranean,524,69,16,7,5,0.831908344,380,1
+Kofta,Mediterranean,505,31,5,17,3,2.288180238,335,30
+Semolina Cake,Mediterranean,284,23,16,6,2,1.978733465,425,0
+Baba Ganoush,Mediterranean,399,73,20,8,7,2.31121383,463,37
+Muhammara,Mediterranean,325,63,9,16,7,2.033271197,256,14
+Baba Ganoush,Mediterranean,556,54,17,19,8,1.461735678,367,9
+Gigantes Plaki,Mediterranean,362,24,21,24,2,2.929296523,198,21
+Pastitsio,Mediterranean,404,76,11,17,5,1.75325519,374,3
+Kofta,Mediterranean,565,26,7,9,4,1.164322886,85,17
+Grilled Eggplant Salad,Mediterranean,568,74,7,12,2,3.592609147,344,4
+Taramosalata,Mediterranean,489,60,22,15,7,3.021412912,54,29
+Manakish,Mediterranean,478,50,16,25,6,2.411914606,238,29
+Baba Ganoush,Mediterranean,202,49,8,5,9,3.475929767,384,34
+Labneh,Mediterranean,484,64,9,12,4,2.061865313,479,1
+Pita Bread,Mediterranean,366,44,8,18,3,1.769917992,435,0
+Pakoras,Pakistani,339,77,6,11,1,2.459342767,82,19
+Biryani,Pakistani,327,51,14,14,3,1.297221615,281,4
+Raita,Pakistani,280,53,15,17,8,2.671110054,302,10
+Dahi Bhalla,Pakistani,395,53,6,13,2,3.866836228,307,33
+Sheer Khurma,Pakistani,270,32,14,18,1,2.568767856,398,34
+Raita,Pakistani,588,76,6,27,2,0.712518892,120,39
+Gol Gappay,Pakistani,418,26,8,13,8,1.459546343,350,32
+Biryani,Pakistani,312,21,10,28,1,3.694066607,95,8
+Roghni Naan,Pakistani,203,49,16,12,3,2.422704766,435,12
+Haleem,Pakistani,556,67,17,9,2,3.149732766,359,14
+Gol Gappay,Pakistani,496,58,22,25,4,1.125222354,73,34
+Chapal Pulao,Pakistani,298,36,20,12,1,3.95213756,348,1
+Dahi Bhalla,Pakistani,562,53,9,17,2,2.736089734,354,8
+Saag,Pakistani,573,51,15,11,9,2.147162299,137,35
+Mutton Korma,Pakistani,589,58,9,10,4,1.226354734,253,28
+Lassi,Pakistani,442,33,6,29,3,2.916612251,246,29
+Chapli Kebab,Pakistani,323,59,7,12,2,2.797623187,473,9
+Chana Pulao,Pakistani,483,31,5,22,3,0.761680976,267,6
+Gol Gappay,Pakistani,299,24,9,27,5,3.021578056,259,16
+Chicken Handi,Pakistani,243,60,18,6,8,2.978402167,91,13
+Roghni Naan,Pakistani,592,55,22,25,6,3.892981683,117,6
+Lassi,Pakistani,496,53,9,24,8,2.608634641,309,32
+Zarda,Pakistani,309,29,23,26,8,0.858756419,359,34
+Raita,Pakistani,490,20,23,20,1,2.938373365,293,25
+Nihari,Pakistani,305,70,19,19,7,2.489390366,419,11
+Panang Curry,Thai,380,54,23,11,6,3.244571202,431,31
+Tom Yum Soup,Thai,214,39,10,12,3,1.029605075,258,23
+Som Tum,Thai,598,56,6,6,7,1.021391664,114,39
+Mango Sticky Rice,Thai,577,68,13,15,8,0.606914686,284,1
+Larb,Thai,327,27,6,7,5,2.352790617,68,37
+Red Curry,Thai,446,53,21,27,9,0.848111162,429,34
+Massaman Curry,Thai,486,43,21,14,3,0.986648512,401,35
+Khao Pad,Thai,286,21,23,24,7,2.346504058,197,28
+Massaman Curry,Thai,486,72,22,27,3,3.56035589,283,13
+Tom Kha Gai,Thai,456,67,7,19,9,2.309052547,254,33
+Pad Kra Pao,Thai,542,72,10,10,9,0.513449182,335,28
+Khao Pad,Thai,484,60,9,18,4,1.926517735,225,25
+Green Curry,Thai,405,78,11,15,8,2.091726132,51,9
+Tom Kha Gai,Thai,495,64,11,8,8,1.371623619,132,12
+Pad Thai,Thai,343,39,11,9,4,1.948883755,423,20
+Tom Yum Soup,Thai,533,62,11,15,3,1.837500764,96,2
+Papaya Salad,Thai,472,20,17,12,5,1.103716822,72,24
+Papaya Salad,Thai,202,55,10,19,6,1.630948373,230,2
+Larb,Thai,548,52,21,26,3,2.623650656,66,29
+Mango Sticky Rice,Thai,527,70,19,22,7,3.523809344,243,28
+Coconut Ice Cream,Thai,445,79,9,23,5,2.227699143,307,33
+Pad Kra Pao,Thai,516,71,20,22,7,1.255089994,455,21
+Pad Thai,Thai,319,77,13,7,9,1.772020131,187,7
+Red Curry,Thai,540,37,24,21,6,3.988548377,349,35
+Tom Yum Soup,Thai,369,38,13,27,6,3.896890791,455,38
+Madeleines,French,360,39,6,28,9,2.12769663,125,5
+Croissant,French,214,65,10,25,8,2.094385662,83,8
+Crepes,French,231,65,20,28,1,3.084739355,299,13
+Soufflé,French,596,54,18,11,7,2.527777619,494,22
+Tarte Tatin,French,490,30,22,23,5,2.355986517,195,18
+Escargot,French,357,64,14,16,6,1.458309509,309,31
+Baguette,French,342,74,23,8,5,2.310695054,176,10
+Crepes,French,296,78,18,12,7,3.009170936,455,17
+Brie Cheese,French,321,42,19,28,2,2.434654555,423,38
+Crepes,French,455,33,7,7,2,0.701184701,421,29
+Quiche Lorraine,French,595,59,22,6,1,3.519632394,463,27
+Tarte Tatin,French,395,37,14,18,1,2.568370695,494,39
+Brie Cheese,French,343,59,12,28,9,3.10522771,71,36
+Nicoise Salad,French,230,49,20,23,6,0.893585004,225,16
+Beef Bourguignon,French,371,21,9,26,9,1.313487057,138,8
+Coq au Vin,French,516,25,5,7,8,0.865403419,475,5
+Ratatouille,French,376,50,12,9,3,1.972998583,463,30
+Beef Bourguignon,French,379,46,13,19,4,1.369156243,64,18
+Macarons,French,436,55,5,12,2,2.371365012,197,13
+Beef Bourguignon,French,200,77,8,29,4,3.971040447,86,28
+Pot-au-Feu,French,276,53,14,13,4,2.696495178,219,7
+Bouillabaisse,French,334,64,12,19,6,0.995036172,286,24
+Clafoutis,French,290,63,23,23,3,3.070377389,205,25
+Croissant,French,254,39,20,27,7,0.680576882,413,11
+Soufflé,French,543,59,8,12,3,3.503596343,267,24
+Pulpo a la Gallega,Spanish,259,73,19,20,2,2.059622874,230,29
+Jamón Ibérico,Spanish,517,39,6,11,3,2.113888065,109,38
+Arroz con Leche,Spanish,396,68,22,22,9,1.633063815,353,37
+Paella,Spanish,542,75,5,23,6,2.674265249,77,35
+Arroz con Leche,Spanish,274,41,16,18,9,1.88592585,305,5
+Gambas al Ajillo,Spanish,435,29,17,15,3,3.343976901,472,7
+Sangria,Spanish,233,46,22,15,3,3.11984222,140,14
+Gambas al Ajillo,Spanish,379,22,22,5,1,2.366692044,479,12
+Jamón Ibérico,Spanish,247,51,20,5,1,3.163759748,159,18
+Turrón,Spanish,335,66,12,7,2,1.185918369,182,38
+Gambas al Ajillo,Spanish,431,63,11,12,9,3.251243344,100,29
+Croquetas,Spanish,509,24,16,21,6,0.867251573,95,29
+Pulpo a la Gallega,Spanish,332,59,13,22,5,3.533719141,436,36
+Tortilla Española,Spanish,593,49,23,15,3,3.374981699,345,36
+Pisto,Spanish,440,31,18,13,4,2.03423968,467,0
+Paella,Spanish,209,79,10,9,9,1.851049196,303,30
+Paella,Spanish,461,20,6,27,6,1.770047231,238,10
+Crema Catalana,Spanish,358,39,22,21,8,0.906508704,426,1
+Paella,Spanish,516,32,17,7,4,1.200768886,326,32
+Pulpo a la Gallega,Spanish,402,73,16,11,5,3.744335019,370,6
+Churros,Spanish,521,69,13,27,4,3.716471627,435,0
+Flan,Spanish,557,21,8,17,5,3.82524511,274,5
+Pulpo a la Gallega,Spanish,556,21,7,25,2,3.838824592,240,14
+Flan,Spanish,363,20,21,17,8,3.918458286,196,12
+Turrón,Spanish,523,36,24,21,5,3.579067406,197,1
+Ezogelin Soup,Turkish,248,51,10,9,8,1.178715111,496,18
+Turkish Delight,Turkish,393,57,13,23,8,1.936133501,186,21
+Turkish Delight,Turkish,319,51,22,17,1,1.159933069,284,12
+Borek,Turkish,290,67,22,18,9,1.196312039,459,13
+Pide,Turkish,557,67,12,16,1,3.840847649,351,21
+Menemen,Turkish,210,78,5,20,9,1.808427129,97,16
+Adana Kebab,Turkish,382,66,22,19,5,2.880653439,75,31
+Pide,Turkish,579,26,24,14,5,3.823746517,323,20
+Menemen,Turkish,396,60,10,16,9,2.672051822,297,32
+Borek,Turkish,309,72,7,12,9,1.294186044,125,39
+Adana Kebab,Turkish,260,42,7,22,2,0.541348998,238,9
+Adana Kebab,Turkish,209,72,14,20,2,3.836948742,284,34
+Sucuk,Turkish,340,22,6,22,3,2.06694852,73,30
+Borek,Turkish,255,49,21,14,3,3.465050964,374,33
+Simit,Turkish,281,72,15,5,4,1.3803077,211,32
+Simit,Turkish,583,57,17,15,9,3.026820179,247,36
+Sucuk,Turkish,375,50,13,10,2,1.353964185,208,7
+Lahmacun,Turkish,415,57,10,18,1,2.246161376,480,24
+Iskender Kebab,Turkish,551,67,8,24,2,1.449198821,234,0
+Dondurma,Turkish,509,46,7,7,4,1.202239719,307,16
+Borek,Turkish,567,49,24,27,3,3.813798921,423,30
+Menemen,Turkish,221,57,21,18,7,2.535046365,444,18
+Ezogelin Soup,Turkish,252,37,13,29,4,1.211574525,293,13
+Meze,Turkish,405,49,5,17,6,3.651136117,443,23
+Imam Bayildi,Turkish,435,38,6,9,7,3.578064793,159,14
+Fattoush,Lebanese,309,77,20,24,7,1.870638833,206,39
+Grilled Kafta,Lebanese,475,78,10,10,8,2.782248724,385,17
+Kibbeh,Lebanese,556,74,9,23,8,3.320448285,379,25
+Grilled Kafta,Lebanese,386,28,16,14,3,3.432406429,237,26
+Kibbeh,Lebanese,257,69,21,20,5,2.269173523,455,24
+Grilled Kafta,Lebanese,260,46,13,7,9,2.182756884,425,21
+Kibbeh,Lebanese,279,55,16,23,3,1.530132848,401,9
+Batata Harra,Lebanese,441,64,20,11,1,1.872083802,255,27
+Batata Harra,Lebanese,565,68,9,9,5,2.768919061,117,27
+Stuffed Grape Leaves,Lebanese,298,43,7,10,4,1.457641538,445,18
+Mujadara,Lebanese,258,29,6,11,6,2.937455735,106,14
+Sfouf,Lebanese,359,45,5,21,4,1.335833769,492,6
+Sfouf,Lebanese,343,41,14,20,6,3.211075231,128,37
+Kibbeh,Lebanese,226,45,18,22,6,2.042199353,322,12
+Grilled Kafta,Lebanese,240,20,7,21,2,0.629244318,240,1
+Shawarma,Lebanese,451,65,16,22,8,1.938027344,496,3
+Hummus,Lebanese,359,38,7,7,7,3.709145406,344,21
+Grilled Kafta,Lebanese,300,41,12,21,3,1.039413234,322,19
+Kafta Kebabs,Lebanese,449,66,22,8,9,3.917937485,347,30
+Labneh,Lebanese,380,27,20,11,1,2.694265535,397,21
+Grilled Kafta,Lebanese,250,66,13,10,7,0.81564561,204,18
+Falafel,Lebanese,223,34,6,23,4,0.819319337,387,36
+Labneh,Lebanese,571,46,20,13,7,3.316088046,174,36
+Labneh,Lebanese,410,55,5,11,9,1.800365184,407,36
+Batata Harra,Lebanese,249,48,17,7,1,2.160183502,385,20
+Wiener Schnitzel,German,468,63,14,23,5,3.453741879,246,37
+Wiener Schnitzel,German,438,25,6,8,2,0.616939577,473,3
+Spätzle,German,233,23,22,14,2,2.617139123,133,21
+Apfelstrudel,German,435,36,12,18,1,2.808616131,188,4
+Currywurst,German,418,48,7,17,1,2.12865688,92,34
+Eintopf,German,486,39,10,19,4,1.930472666,69,13
+Wiener Schnitzel,German,368,76,24,17,4,1.585333805,314,28
+Stollen,German,597,77,15,24,3,1.21152569,389,16
+Spätzle,German,403,33,12,26,3,1.742981789,410,27
+Wiener Schnitzel,German,204,55,24,13,8,0.901875791,219,12
+Spätzle,German,537,44,13,9,9,1.433599787,325,7
+Beef Sauerbraten,German,597,45,14,13,3,2.099132576,419,8
+Rouladen,German,560,77,21,9,7,2.831107707,450,38
+Eintopf,German,595,54,19,26,4,0.548688586,108,16
+Beer Cheese Soup,German,455,43,19,27,6,0.651632894,294,30
+Apfelstrudel,German,218,61,14,22,5,3.575790147,261,19
+Beef Sauerbraten,German,486,31,24,22,8,2.93090712,201,8
+Wiener Schnitzel,German,534,62,8,20,9,3.199434913,381,17
+Wiener Schnitzel,German,579,47,10,6,8,0.578586122,184,2
+Lebkuchen,German,288,58,8,19,1,2.175152701,273,5
+Pretzels,German,560,37,12,23,5,3.412038829,251,11
+Schnitzel,German,561,72,16,24,1,2.850111816,462,8
+Rinderroulade,German,208,53,8,12,1,2.167928597,292,25
+Black Forest Cake,German,437,29,11,24,4,2.316046053,484,16
+Stollen,German,301,43,8,17,2,1.73076563,449,9
+Melitzanosalata,Greek,445,40,16,11,7,1.570725269,269,29
+Gyro,Greek,475,38,12,19,5,1.608800582,91,6
+Horiatiki Salad,Greek,331,41,8,27,2,2.994527261,208,20
+Kleftiko,Greek,238,55,16,20,9,2.863166759,483,12
+Horiatiki Salad,Greek,211,27,7,20,1,0.742087828,269,30
+Loukoumades,Greek,498,61,19,7,3,1.815625995,104,30
+Gyro,Greek,336,64,20,9,6,1.417489797,369,27
+Pastitsio,Greek,368,67,6,26,4,2.381994087,356,19
+Spanakopita,Greek,338,48,18,9,7,3.876883025,324,15
+Baklava,Greek,332,33,20,7,1,1.893676217,304,32
+Loukoumades,Greek,486,71,18,20,1,1.442472471,388,15
+Fasolada,Greek,298,27,14,6,5,2.583723159,487,14
+Avgolemono Soup,Greek,335,73,20,19,4,2.128875971,175,39
+Pastitsio,Greek,254,40,11,16,9,1.364984562,379,2
+Kataifi,Greek,218,65,13,22,4,2.525326373,435,17
+Greek Salad,Greek,261,41,7,25,2,3.656802814,335,23
+Pastitsio,Greek,588,33,12,14,4,3.799608569,271,8
+Horiatiki Salad,Greek,383,76,7,17,8,2.248444155,488,12
+Taramosalata,Greek,419,59,18,14,4,2.884151018,283,5
+Spanakopita,Greek,255,79,20,24,5,2.918590519,156,29
+Kataifi,Greek,253,29,16,5,1,3.05984334,483,15
+Dolmades,Greek,551,42,9,11,7,2.092619212,412,18
+Lahanodolmades,Greek,408,74,10,14,5,0.970568018,133,34
+Loukoumades,Greek,454,34,15,13,1,2.824750642,443,19
+Dolmades,Greek,560,27,16,9,5,0.941141117,262,28
+Kefta,Moroccan,242,73,17,8,9,3.945411576,348,33
+Harissa Chicken,Moroccan,471,61,14,28,8,3.766366701,254,15
+Khobz,Moroccan,420,26,5,6,7,1.839463701,254,22
+Sfenj,Moroccan,213,53,24,10,4,0.581227075,396,1
+Lamb with Prunes,Moroccan,434,39,15,8,4,2.764879474,412,4
+Seffa,Moroccan,487,78,6,14,9,2.768303125,473,9
+Sfenj,Moroccan,444,27,17,29,2,2.766028194,279,31
+Zaalouk,Moroccan,357,66,5,5,5,3.693481979,187,22
+Briouats,Moroccan,351,59,5,22,9,2.522322348,351,5
+Msemen,Moroccan,394,44,17,21,5,3.721085617,279,17
+Chermoula Fish,Moroccan,474,31,12,27,7,1.510614255,358,6
+Msemen,Moroccan,386,55,13,18,3,2.281111909,160,14
+Rfissa,Moroccan,412,37,6,14,1,0.713126181,424,11
+Mechoui,Moroccan,450,75,10,22,2,1.962694291,264,15
+Msemen,Moroccan,549,24,12,12,6,2.056791214,278,21
+Makouda,Moroccan,430,62,18,22,7,3.006112692,333,16
+Couscous,Moroccan,309,77,16,15,1,2.203347535,293,3
+Couscous,Moroccan,382,78,22,5,5,3.368185734,190,24
+Tagine,Moroccan,496,74,23,27,3,0.862907698,424,16
+Baghrir,Moroccan,315,79,24,18,4,2.166535941,153,34
+Rfissa,Moroccan,234,77,13,5,2,1.956223964,266,31
+Chermoula Fish,Moroccan,471,69,13,27,8,1.787777519,143,28
+Chakchouka,Moroccan,383,42,24,8,2,3.186922586,316,28
+Rfissa,Moroccan,396,46,16,18,1,3.780077068,239,31
+Harissa Chicken,Moroccan,201,34,11,19,1,1.156599228,315,22
+Tahchin,Persian,475,38,22,18,2,2.971109715,350,30
+Halva,Persian,229,57,21,14,9,3.960526899,376,11
+Sholeh Zard,Persian,543,70,6,7,5,2.870803696,484,11
+Bamieh,Persian,238,55,12,28,9,3.970920021,352,37
+Tahchin,Persian,487,74,14,26,2,1.080283466,468,31
+Persian Stew,Persian,381,45,8,26,1,3.531239946,431,15
+Abgoosht,Persian,236,20,13,13,1,2.789349761,206,19
+Fesenjan,Persian,586,48,21,23,9,0.869617638,227,29
+Ash Reshteh,Persian,204,76,20,12,3,2.774049378,207,33
+Shirini,Persian,488,62,24,25,3,1.386119952,157,39
+Noon Panir Sabzi,Persian,234,42,11,28,1,3.205422173,265,32
+Nan-e Barbari,Persian,264,65,8,28,6,2.587634675,271,27
+Persian Stew,Persian,449,65,20,27,1,3.309713959,114,14
+Shirini,Persian,589,70,19,23,9,2.808691854,384,10
+Sholeh Zard,Persian,573,45,24,21,7,0.676683492,441,34
+Halva,Persian,446,61,20,26,1,3.402754991,59,34
+Kuku Sabzi,Persian,308,51,14,27,9,3.602536739,352,10
+Shirini,Persian,299,22,16,11,7,3.185311803,255,35
+Fesenjan,Persian,465,33,13,7,3,3.947425581,150,17
+Kabob Koobideh,Persian,384,77,17,28,7,1.453018651,63,36
+Noon Panir Sabzi,Persian,279,71,23,28,3,3.679030759,139,35
+Dolmeh,Persian,342,37,6,13,4,3.503516407,158,25
+Baghali Polo,Persian,313,71,18,25,2,0.610667378,209,17
+Shirini,Persian,542,38,10,26,3,2.52492068,369,32
+Saffron Rice,Persian,483,63,15,10,1,3.87052649,354,29
+Burger,American,325,39,8,18,3,1.419965691,238,11
+BBQ Ribs,American,232,79,5,21,4,1.342600528,437,12
+Apple Pie,American,502,79,12,12,6,1.444950877,143,16
+Grilled Cheese,American,598,57,10,6,6,1.011052635,498,15
+Cornbread,American,502,41,8,6,5,1.155612248,185,6
+BBQ Ribs,American,234,26,11,25,8,2.789413013,203,39
+Meatloaf,American,430,41,16,13,8,1.4992235,74,32
+Mac and Cheese,American,364,66,13,14,9,1.769030113,114,12
+Jambalaya,American,228,69,21,23,4,2.505380717,92,22
+BBQ Ribs,American,560,45,21,17,6,1.64570863,492,11
+Hot Dog,American,388,20,22,18,2,1.548096982,384,33
+Grilled Cheese,American,465,63,9,6,6,2.257564439,227,25
+Sloppy Joe,American,384,53,9,12,3,1.225889901,259,0
+Hot Dog,American,586,49,8,5,5,3.528982107,441,7
+Hot Dog,American,588,65,21,14,1,3.431746658,266,38
+Chocolate Chip Cookies,American,502,22,20,18,3,2.571667059,275,30
+Hot Dog,American,413,77,6,17,6,1.542547437,234,16
+Hot Dog,American,544,66,9,11,8,0.763171084,272,19
+Jambalaya,American,372,23,14,24,4,2.041816079,202,3
+Tater Tots,American,550,78,9,8,2,0.735907265,460,25
+Hot Dog,American,284,33,5,27,5,0.881228945,149,18
+Grilled Cheese,American,534,46,18,11,9,3.726761775,320,31
+Jambalaya,American,554,67,9,29,3,3.365362143,484,32
+Cornbread,American,521,23,5,13,3,1.037718407,162,22
+Burger,American,509,69,5,20,9,0.916465805,366,26
+Caviar,Russian,324,57,11,15,8,1.927665326,423,35
+Kissel,Russian,414,23,23,19,3,1.890718502,326,16
+Kvass,Russian,365,29,10,29,3,3.628869831,110,10
+Medovik,Russian,212,66,22,25,6,2.020150678,250,4
+Olivier Salad,Russian,282,64,11,29,9,2.640608689,239,3
+Caviar,Russian,288,59,12,8,2,3.216292329,358,33
+Vareniki,Russian,544,22,10,8,7,1.415563053,376,20
+Vareniki,Russian,341,31,8,28,2,3.721446489,354,23
+Solyanka,Russian,524,46,13,15,1,2.666040984,135,12
+Kasha,Russian,354,72,18,5,9,0.869032605,482,33
+Syrniki,Russian,274,64,9,29,3,2.201925027,313,8
+Shchi,Russian,535,63,5,29,9,1.194783754,208,31
+Kulebyaka,Russian,338,26,10,15,7,1.46138773,252,10
+Blini,Russian,450,41,24,29,2,3.422064892,101,4
+Okroshka,Russian,284,31,13,23,9,3.355325244,431,31
+Kulebyaka,Russian,588,35,7,18,2,1.489634929,334,1
+Olivier Salad,Russian,401,79,16,9,3,1.35865876,320,12
+Pelmeni,Russian,296,76,23,24,5,2.707376876,98,30
+Borscht,Russian,314,36,8,15,6,0.63188601,174,22
+Okroshka,Russian,490,27,8,8,4,2.21501795,233,20
+Pirozhki,Russian,575,21,17,22,7,2.422875416,382,23
+Okroshka,Russian,260,54,24,8,3,3.839439362,306,9
+Caviar,Russian,228,58,15,21,5,3.275743941,399,34
+Syrniki,Russian,496,49,8,14,2,0.919758237,152,16
+Okroshka,Russian,533,78,14,14,6,1.825102849,327,13
+Beijinho,Brazilian,564,48,13,28,7,2.234468595,157,2
+Caldo Verde,Brazilian,232,23,10,25,8,3.46267028,198,33
+Beijinho,Brazilian,400,74,12,25,3,0.70564782,288,15
+Arroz de Carreteiro,Brazilian,416,22,10,15,4,3.389738103,252,18
+Pastel,Brazilian,431,37,11,26,2,2.21715717,118,39
+Pão de Queijo,Brazilian,260,62,23,17,1,3.516670717,213,11
+Vatapá,Brazilian,336,66,12,20,2,1.671751863,359,35
+Vatapá,Brazilian,502,64,21,17,9,3.731899155,116,34
+Brigadeiro,Brazilian,392,55,9,27,7,2.679974788,335,9
+Coxinha,Brazilian,388,79,19,23,6,3.525030016,354,2
+Churrasco,Brazilian,486,75,14,28,5,3.726392082,326,27
+Pão de Queijo,Brazilian,469,43,18,16,7,3.14017543,73,36
+Churrasco,Brazilian,309,55,8,12,7,0.952420667,168,26
+Brigadeiro,Brazilian,328,60,14,10,5,1.520853061,195,20
+Cuscuz Paulista,Brazilian,599,59,19,28,2,3.12372519,217,14
+Pão de Queijo,Brazilian,548,25,9,19,5,1.322567809,421,27
+Beijinho,Brazilian,542,48,23,9,5,3.212036395,456,34
+Farofa,Brazilian,332,54,18,22,3,3.711906452,283,19
+Quindim,Brazilian,526,75,17,24,7,1.312496706,381,17
+Escondidinho,Brazilian,220,58,21,24,2,0.830084375,51,5
+Feijoada,Brazilian,475,52,8,8,5,2.031376777,138,33
+Farofa,Brazilian,578,79,14,20,2,1.267868263,239,28
+Churrasco,Brazilian,571,68,7,24,4,1.887651321,375,3
+Farofa,Brazilian,411,68,17,27,5,2.433771042,472,26
+Pastel,Brazilian,296,37,15,28,8,3.375249455,413,33
+Curry Goat,Caribbean,561,48,11,12,1,3.195886657,408,4
+Conch Fritters,Caribbean,273,53,9,8,5,1.301546899,399,24
+Souse,Caribbean,441,39,18,20,4,3.595625303,78,34
+Rice and Peas,Caribbean,565,42,15,25,9,3.706649696,432,16
+Rum Cake,Caribbean,331,72,23,24,4,3.316744934,430,36
+Ackee and Saltfish,Caribbean,560,72,19,20,4,2.512456914,399,6
+Souse,Caribbean,395,75,18,5,9,1.42199052,358,35
+Jerk Chicken,Caribbean,482,63,23,6,3,3.068389529,174,30
+Fungee,Caribbean,394,52,18,24,5,2.852107667,268,33
+Escovitch Fish,Caribbean,255,69,12,25,3,1.270145203,233,26
+Rum Cake,Caribbean,499,58,7,8,8,1.84854157,168,10
+Plantains,Caribbean,292,74,22,26,4,1.899894539,127,39
+Curry Goat,Caribbean,357,28,22,21,6,2.182216667,193,26
+Callaloo,Caribbean,425,56,11,28,7,1.13452679,241,13
+Doubles,Caribbean,381,70,24,22,2,2.75254268,95,20
+Ackee and Saltfish,Caribbean,539,52,13,20,4,3.392879615,54,11
+Doubles,Caribbean,368,54,13,15,1,0.586933886,310,24
+Plantains,Caribbean,494,72,5,21,1,3.650767614,165,25
+Gizzada,Caribbean,464,53,5,13,2,3.106746344,445,36
+Fungee,Caribbean,474,37,18,16,2,3.83570929,450,7
+Escovitch Fish,Caribbean,503,76,23,27,6,0.783174313,379,2
+Callaloo,Caribbean,530,52,20,24,7,2.011621989,85,25
+Bakes,Caribbean,412,65,7,18,6,2.165212261,307,18
+Fungee,Caribbean,575,37,10,12,7,1.321854198,203,17
+Jerk Chicken,Caribbean,246,68,20,25,4,3.055715875,390,13
+Azifa,Ethiopian,504,75,13,13,8,1.943094965,154,29
+Teff Bread,Ethiopian,301,29,17,6,8,0.76685753,457,15
+Berbere Spices,Ethiopian,550,77,11,19,4,2.941476566,227,0
+Chechebsa,Ethiopian,321,44,16,11,5,0.529166012,478,27
+Shiro,Ethiopian,341,30,24,13,7,1.557773744,410,33
+Kik Alicha,Ethiopian,583,27,8,13,9,1.381400536,439,37
+Teff Bread,Ethiopian,271,55,12,20,5,0.527102817,363,32
+Tibs,Ethiopian,565,51,20,9,4,2.86307871,261,39
+Shiro,Ethiopian,423,34,22,7,6,1.287737111,198,26
+Dulet,Ethiopian,511,43,22,25,8,0.506293048,108,29
+Shiro,Ethiopian,240,42,19,10,8,0.915104307,203,32
+Misir Wat,Ethiopian,357,60,19,20,6,2.174074247,459,35
+Injera,Ethiopian,414,48,16,14,6,1.004226087,315,22
+Chechebsa,Ethiopian,326,77,24,6,9,1.222901964,197,9
+Misir Wat,Ethiopian,435,25,14,20,3,1.212459449,483,20
+Injera,Ethiopian,241,29,20,10,5,2.70664817,461,7
+Kitfo,Ethiopian,445,66,13,5,5,2.527457602,392,7
+Awaze,Ethiopian,424,51,12,19,5,2.640541566,444,10
+Shiro,Ethiopian,289,36,24,23,5,2.733866847,230,20
+Kitfo,Ethiopian,297,43,9,12,8,2.449063656,338,36
+Yetsom Beyaynetu,Ethiopian,427,22,23,22,2,2.975787395,127,0
+Sambusa,Ethiopian,269,40,15,23,1,1.573350993,117,22
+Azifa,Ethiopian,331,66,5,20,3,3.759589777,195,27
+Enset,Ethiopian,455,51,15,13,2,1.170220561,347,23
+Kik Alicha,Ethiopian,441,33,12,10,2,3.691185211,121,28
+Bo Kho,Vietnamese,495,25,10,25,8,2.958385349,157,20
+Hu Tieu,Vietnamese,442,24,9,24,4,2.263263224,458,19
+Banh Bao,Vietnamese,528,70,6,19,6,3.446867764,246,27
+Banh Xeo,Vietnamese,252,35,12,21,9,0.627162218,183,7
+Spring Rolls,Vietnamese,414,69,20,28,6,1.462005181,261,34
+Banh Cuon,Vietnamese,331,62,9,25,4,1.533422498,455,3
+Ca Phe Sua Da,Vietnamese,338,45,13,6,7,2.074192079,147,11
+Nem Ran,Vietnamese,419,27,5,23,2,2.325015126,160,32
+Ca Phe Sua Da,Vietnamese,399,21,12,26,1,2.295693106,268,26
+Hu Tieu,Vietnamese,396,22,9,17,5,1.304736458,392,5
+Banh Cuon,Vietnamese,416,26,17,7,6,3.784964183,153,19
+Pho,Vietnamese,236,54,15,16,3,2.071963203,340,19
+Mi Quang,Vietnamese,325,47,14,24,7,3.665313648,360,29
+Banh Xeo,Vietnamese,387,30,19,15,5,2.633084887,239,22
+Com Tam,Vietnamese,234,27,17,8,1,3.671903965,333,6
+Pho,Vietnamese,358,22,12,29,2,1.500595402,63,38
+Com Tam,Vietnamese,576,23,11,5,2,3.026831116,73,25
+Spring Rolls,Vietnamese,285,58,8,17,2,2.94102066,390,0
+Banh Bao,Vietnamese,262,39,8,26,4,2.780934209,261,14
+Goi Cuon,Vietnamese,411,42,21,18,9,1.821042388,153,18
+Ca Phe Sua Da,Vietnamese,460,20,24,15,6,3.385489606,50,13
+Com Tam,Vietnamese,343,37,10,18,7,2.058233218,119,16
+Pho,Vietnamese,409,38,15,14,1,1.471317721,206,35
+Banh Cuon,Vietnamese,379,68,14,14,8,1.773081088,268,34
+Bun Cha,Vietnamese,280,37,18,19,8,1.386865983,73,1
+Laksa,Malaysian,226,73,10,17,7,0.738859934,420,24
+Teh Tarik,Malaysian,220,58,5,18,6,2.95705465,309,32
+Char Kway Teow,Malaysian,418,31,15,11,8,1.703549882,297,27
+Curry Puff,Malaysian,256,33,19,19,7,1.714280345,376,7
+Roti Canai,Malaysian,372,35,7,6,1,2.926319025,158,25
+Hainanese Chicken Rice,Malaysian,431,32,14,11,4,1.983407564,300,30
+Kaya Toast,Malaysian,438,55,16,7,6,0.822162526,250,35
+Asam Pedas,Malaysian,271,38,22,28,1,2.510987845,68,18
+Cendol,Malaysian,541,47,24,23,5,1.133335956,266,27
+Cendol,Malaysian,346,36,7,26,6,0.88279642,451,28
+Nasi Kerabu,Malaysian,250,68,17,18,7,2.209847481,130,23
+Kaya Toast,Malaysian,484,65,6,23,7,0.889316199,208,34
+Teh Tarik,Malaysian,588,41,6,18,9,0.713543178,329,20
+Mee Goreng,Malaysian,225,29,17,12,6,1.727112071,295,36
+Asam Pedas,Malaysian,371,55,11,22,3,3.618714353,364,0
+Kuih Lapis,Malaysian,405,38,18,27,6,3.178465117,499,16
+Otak-Otak,Malaysian,476,79,14,10,7,2.71431369,214,15
+Asam Pedas,Malaysian,309,36,24,17,3,2.513266182,348,1
+Ayam Masak Merah,Malaysian,563,35,19,18,9,2.668897632,115,34
+Otak-Otak,Malaysian,597,22,22,15,5,2.217144424,401,16
+Teh Tarik,Malaysian,395,59,5,8,2,2.371023535,497,16
+Curry Puff,Malaysian,327,66,18,21,1,3.661553361,132,14
+Ayam Masak Merah,Malaysian,297,71,17,29,7,2.175214869,249,6
+Asam Pedas,Malaysian,283,62,6,25,8,1.689892923,119,6
+Otak-Otak,Malaysian,334,25,8,16,5,2.187640825,494,18
+Tumpeng,Indonesian,398,37,16,12,9,1.661429299,202,36
+Lontong,Indonesian,433,44,6,6,9,3.411169133,314,12
+Opor Ayam,Indonesian,423,61,12,23,9,2.020043678,56,17
+Rendang,Indonesian,592,77,21,8,5,2.053979494,196,0
+Lontong,Indonesian,226,73,15,29,3,3.502505934,473,5
+Nasi Goreng,Indonesian,392,61,14,25,3,3.366558031,231,17
+Klepon,Indonesian,418,34,17,15,9,3.091627781,67,27
+Gado-Gado,Indonesian,556,58,15,7,1,1.370303097,238,3
+Gudeg,Indonesian,408,49,14,13,8,2.593012183,296,11
+Tumpeng,Indonesian,513,72,22,12,5,3.56386619,488,34
+Ayam Goreng,Indonesian,243,66,22,29,5,1.290863072,258,35
+Bakso,Indonesian,521,33,16,6,4,2.32839404,424,23
+Lontong,Indonesian,258,75,23,13,5,1.330612495,50,3
+Lontong,Indonesian,431,56,23,25,4,3.528891236,229,23
+Gudeg,Indonesian,325,70,9,22,8,3.790765868,347,31
+Nasi Goreng,Indonesian,495,56,22,29,5,2.950911288,371,37
+Sayur Asem,Indonesian,522,68,13,29,7,1.601881047,361,22
+Pempek,Indonesian,512,51,17,24,7,3.89798623,249,34
+Bubur Ayam,Indonesian,295,30,12,23,5,1.854795799,366,22
+Opor Ayam,Indonesian,449,35,13,15,3,3.862941541,261,26
+Tumpeng,Indonesian,252,39,20,14,9,3.630359665,363,15
+Nasi Goreng,Indonesian,503,51,21,13,8,2.467716841,401,18
+Satay,Indonesian,526,58,12,25,6,0.655715607,126,26
+Tempeh,Indonesian,529,47,9,13,2,1.413812976,477,24
+Ayam Goreng,Indonesian,240,36,14,12,2,1.786685275,226,13
+Balut,Filipino,431,26,18,26,9,3.209277522,431,9
+Puto,Filipino,387,20,19,24,4,3.865473104,52,10
+Tocino,Filipino,327,44,19,22,8,3.982803434,245,12
+Balut,Filipino,373,78,13,23,2,2.619723522,187,10
+Tinola,Filipino,258,65,16,20,9,1.849228251,268,7
+Bicol Express,Filipino,515,71,10,14,9,3.252964852,499,31
+Kare-Kare,Filipino,229,71,11,18,3,1.657719135,477,35
+Halo-Halo,Filipino,354,67,16,9,3,1.216687017,458,22
+Balut,Filipino,274,37,17,22,8,2.196637393,173,9
+Turon,Filipino,487,30,7,22,8,0.668726575,82,4
+Sisig,Filipino,579,52,13,13,5,1.37909249,208,10
+Sisig,Filipino,290,40,23,10,6,1.945990339,58,22
+Tocino,Filipino,410,68,23,21,2,1.640535962,179,29
+Lumpia,Filipino,393,79,24,9,6,2.131765004,168,39
+Halo-Halo,Filipino,352,53,24,9,8,1.606618636,377,5
+Chicharon,Filipino,271,79,15,21,3,2.443423914,97,10
+Bicol Express,Filipino,539,32,18,28,3,2.227415589,276,31
+Lumpia,Filipino,349,60,19,20,4,2.411161611,348,9
+Tinola,Filipino,335,77,6,29,8,3.287312594,406,7
+Chicharon,Filipino,426,30,21,24,2,0.596416617,84,1
+Halo-Halo,Filipino,473,78,14,21,5,0.712896611,251,23
+Lumpia,Filipino,562,24,23,19,4,3.72580501,205,34
+Balut,Filipino,299,33,16,25,5,2.573742006,439,16
+Lumpia,Filipino,365,79,13,16,2,1.892509165,220,32
+Arroz Caldo,Filipino,418,69,5,15,3,2.741249146,380,34
+Sausage Sizzle,Australian,412,42,13,28,8,3.447199517,356,3
+Chiko Roll,Australian,378,39,19,14,3,1.101730179,401,23
+Potato Scallops,Australian,483,26,20,26,9,1.01385213,441,26
+Tim Tams,Australian,453,48,21,6,9,0.774809982,124,22
+Witchetty Grub,Australian,303,77,20,18,6,0.623034472,134,11
+Pie Floater,Australian,298,63,17,17,8,2.032198954,214,31
+Sausage Sizzle,Australian,375,30,9,6,9,1.337933271,186,0
+Damper,Australian,307,69,15,27,4,1.868269296,409,3
+Vanilla Slice,Australian,552,77,18,18,1,1.339679127,259,1
+Chicken Parmigiana,Australian,365,73,15,23,1,3.231023168,98,5
+Vanilla Slice,Australian,261,56,6,21,3,2.343409465,416,18
+Potato Scallops,Australian,350,75,12,9,8,3.249318684,445,39
+Pavlova,Australian,398,58,6,17,3,1.00049896,217,2
+Golden Gaytime,Australian,378,56,18,22,9,2.359187577,486,30
+Beetroot Burger,Australian,415,31,5,27,3,2.293866167,315,21
+Pie Floater,Australian,234,75,21,5,4,1.324017822,59,3
+Fish and Chips,Australian,331,33,23,6,6,1.9866209,253,29
+Pavlova,Australian,512,52,11,17,1,3.439189454,80,7
+Kangaroo Steak,Australian,415,52,10,20,2,0.915897565,470,22
+Sausage Sizzle,Australian,591,33,16,16,4,0.898456092,388,18
+Pavlova,Australian,425,39,19,6,8,1.49087912,186,18
+Witchetty Grub,Australian,372,32,12,23,1,3.916099889,162,37
+Vegemite Toast,Australian,480,33,14,28,9,3.562730499,115,10
+Vanilla Slice,Australian,507,41,5,19,9,0.889212586,55,35
+Potato Scallops,Australian,571,75,16,10,1,3.785054935,466,28
+Koshari,Egyptian,212,46,17,27,3,3.831483718,348,38
+Om Ali,Egyptian,378,55,23,25,5,0.909812762,174,14
+Mahshi,Egyptian,204,54,14,21,5,1.079405588,129,24
+Ta'ameya (Egyptian Falafel),Egyptian,567,68,8,27,3,1.977998195,226,2
+Hawawshi,Egyptian,370,22,24,12,9,1.251958731,232,15
+Hamam Mahshi,Egyptian,441,43,12,20,5,2.91111585,100,13
+Ful Medames,Egyptian,221,59,18,20,6,3.794466367,367,14
+Besarah,Egyptian,247,37,19,17,8,1.818271268,267,21
+Sayadeya,Egyptian,569,79,23,27,7,1.354964386,294,21
+Roz Bel Shamia,Egyptian,275,46,17,13,6,0.513710214,455,14
+Koshari,Egyptian,341,65,23,19,1,3.3777505,436,29
+Hawawshi,Egyptian,473,45,18,13,5,1.211883069,303,8
+Feseekh,Egyptian,304,36,8,5,6,3.104628868,269,18
+Ta'ameya (Egyptian Falafel),Egyptian,367,67,21,29,9,3.365162575,423,38
+Torly,Egyptian,578,44,18,29,3,1.388069108,432,15
+Basbousa,Egyptian,491,65,18,13,9,2.648862875,160,7
+Shawerma,Egyptian,406,63,13,21,1,2.144516071,415,31
+Feseekh,Egyptian,272,38,23,7,9,2.065545343,389,29
+Feseekh,Egyptian,257,20,10,15,9,2.282556657,454,32
+Feteer,Egyptian,372,54,7,14,6,1.857669225,436,23
+Koshari,Egyptian,483,28,8,18,6,3.498719586,237,25
+Mahshi,Egyptian,401,67,8,13,5,2.772772637,273,30
+Hawawshi,Egyptian,226,61,8,21,4,3.760574967,215,29
+Kunafa,Egyptian,361,27,12,10,5,0.712313187,339,1
+Hamam Mahshi,Egyptian,593,67,15,21,4,0.995679064,271,11
+Bunny Chow,South African,516,47,15,24,1,0.790108239,452,23
+Milk Tart,South African,458,33,14,18,9,2.601102239,412,21
+Gatsby Sandwich,South African,221,45,6,18,2,3.101058191,124,10
+Vetkoek,South African,205,67,9,22,2,2.663628989,218,37
+Biltong,South African,428,50,24,15,5,2.869674151,450,9
+Sosaties,South African,383,45,23,21,2,2.479012501,414,25
+Melktert,South African,320,23,12,13,1,0.91397554,122,30
+Boerewors,South African,292,61,14,23,3,1.572179609,72,30
+Potjiekos,South African,544,34,8,22,9,2.310897528,148,5
+Biltong,South African,268,33,13,24,5,2.298671463,207,14
+Vetkoek,South African,262,29,10,13,3,3.999073168,229,3
+Chakalaka,South African,362,70,15,7,2,3.349788561,284,20
+Milk Tart,South African,421,46,8,25,7,1.488638206,216,7
+Samp and Beans,South African,270,72,14,23,5,2.693471978,159,21
+Bunny Chow,South African,269,62,15,5,7,1.19424986,493,15
+Cape Malay Curry,South African,323,75,11,8,7,1.582122227,460,2
+Peri-Peri Chicken,South African,574,27,8,12,7,0.786651501,212,11
+Peri-Peri Chicken,South African,256,48,14,7,8,3.072421117,107,20
+Braai,South African,273,76,22,11,7,2.799067637,266,14
+Sosaties,South African,454,42,13,29,7,3.888683316,384,15
+Pap,South African,497,64,7,18,8,1.957326677,375,19
+Chakalaka,South African,534,25,9,19,7,1.391481505,151,8
+Pap,South African,461,30,15,15,7,2.021165305,257,31
+Bobotie,South African,295,49,5,7,6,0.711962895,412,30
+Cape Malay Curry,South African,543,40,10,21,2,3.03543864,289,13
+Pan con Lechón,Cuban,299,39,24,28,9,2.184919601,336,4
+Tamales Cubanos,Cuban,316,37,23,18,3,3.104112148,494,16
+Tamales Cubanos,Cuban,310,30,5,14,8,1.986938937,430,32
+Ropa Vieja,Cuban,204,25,14,19,7,2.570043552,248,4
+Tamales Cubanos,Cuban,300,38,9,5,3,1.592222716,388,16
+Turrón de Coco,Cuban,285,59,24,5,6,3.381816199,269,22
+Guava Pastelito,Cuban,358,73,13,17,8,2.107180964,194,6
+Vaca Frita,Cuban,328,57,18,14,4,2.704963209,466,17
+Tamales Cubanos,Cuban,497,56,5,19,2,1.356369044,367,6
+Croquetas,Cuban,227,46,14,16,2,1.162653837,122,20
+Arroz con Leche,Cuban,469,64,11,17,2,3.529613482,456,3
+Yuca con Mojo,Cuban,476,67,5,18,4,3.595802554,175,28
+Arroz con Pollo,Cuban,434,26,21,20,7,1.920946746,177,38
+Vaca Frita,Cuban,287,68,5,19,9,1.874071299,464,3
+Tamales Cubanos,Cuban,516,35,21,9,8,3.431727699,185,12
+Moros y Cristianos,Cuban,251,29,18,11,9,1.662674925,342,15
+Cuban Sandwich,Cuban,564,38,23,26,7,2.832641492,390,18
+Vaca Frita,Cuban,323,65,17,17,6,3.402125942,404,22
+Tostones,Cuban,584,48,13,12,6,3.456119125,311,26
+Mojito,Cuban,410,31,6,17,5,1.929046818,248,7
+Ropa Vieja,Cuban,455,25,23,14,4,1.043624431,419,25
+Tamales Cubanos,Cuban,302,48,18,5,8,2.217828815,106,37
+Cuban Sandwich,Cuban,293,58,5,28,8,3.510699315,347,30
+Vaca Frita,Cuban,276,30,10,11,6,1.487043408,394,27
+Picadillo,Cuban,459,79,15,28,9,0.952528679,79,32
+Provoleta,Argentinian,290,52,21,23,6,0.772830551,462,19
+Humita,Argentinian,388,72,24,10,2,2.88514421,306,15
+Empanadas,Argentinian,219,36,17,29,5,2.677778258,442,32
+Arroz con Leche,Argentinian,240,66,19,23,7,3.83861158,177,30
+Chipa,Argentinian,323,68,8,5,3,2.893854928,54,20
+Locro,Argentinian,385,52,15,13,3,1.490792533,260,22
+Flan con Dulce de Leche,Argentinian,341,25,14,28,1,3.555050096,138,34
+Asado,Argentinian,431,41,9,12,7,3.524230596,57,35
+Asado,Argentinian,434,73,21,28,3,2.761399812,63,33
+Chipa,Argentinian,242,46,8,18,5,2.02714483,465,9
+Tarta Pascualina,Argentinian,422,44,6,13,3,1.920961859,275,25
+Humita,Argentinian,513,55,13,16,9,1.621102001,243,35
+Asado,Argentinian,524,51,18,13,9,2.757314659,159,30
+Matambre,Argentinian,495,78,23,7,4,1.918193728,417,3
+Dulce de Leche,Argentinian,395,50,19,11,5,2.427572688,346,22
+Matambre,Argentinian,526,77,19,21,3,2.813610249,144,6
+Flan con Dulce de Leche,Argentinian,521,36,10,15,6,2.071172646,472,39
+Milanesa,Argentinian,213,37,8,20,4,1.041057479,437,36
+Milanesa,Argentinian,560,44,13,14,3,1.84836593,416,20
+Flan con Dulce de Leche,Argentinian,265,77,11,28,1,3.756196644,367,17
+Fugazzeta,Argentinian,288,77,13,5,1,3.893768886,58,8
+Chimichurri,Argentinian,349,34,5,14,2,1.320706043,362,1
+Alfajores,Argentinian,526,45,20,21,6,3.396680443,104,5
+Chimichurri,Argentinian,533,62,15,13,8,3.260233711,135,11
+Pastelitos,Argentinian,297,52,10,26,4,2.316881351,193,13
+Tacu Tacu,Peruvian,562,67,5,11,8,3.305813615,76,20
+Panetón,Peruvian,372,77,6,17,9,3.571907238,59,35
+Panetón,Peruvian,254,77,5,22,3,2.302252577,450,36
+Ceviche,Peruvian,399,24,13,14,8,0.50486984,144,13
+Tacu Tacu,Peruvian,468,56,6,16,6,1.681509831,137,33
+Carapulcra,Peruvian,550,44,19,12,9,2.579760035,172,37
+Picarones,Peruvian,473,42,23,26,5,1.954692617,168,17
+Picarones,Peruvian,202,67,17,17,5,1.76910448,78,9
+Ceviche,Peruvian,519,28,10,17,2,3.791721791,302,30
+Ceviche,Peruvian,203,39,16,14,5,3.984472613,368,28
+Pollo a la Brasa,Peruvian,272,51,7,8,3,0.840259477,178,22
+Seco de Cordero,Peruvian,314,77,12,17,6,3.681880115,415,39
+Aji de Gallina,Peruvian,349,34,7,21,4,1.443475566,148,27
+Aji de Gallina,Peruvian,231,69,19,18,7,2.750798052,359,33
+Papa a la Huancaína,Peruvian,322,79,23,10,4,3.771006673,235,5
+Lucuma Ice Cream,Peruvian,501,25,14,14,8,3.637516753,203,17
+Quinoa Soup,Peruvian,278,53,14,24,9,3.191879772,380,35
+Seco de Cordero,Peruvian,206,69,8,14,9,3.665212112,105,26
+Carapulcra,Peruvian,490,73,6,5,2,1.684453489,178,18
+Carapulcra,Peruvian,344,35,20,9,1,3.889020143,363,1
+Aji de Gallina,Peruvian,557,53,9,26,6,2.900269041,252,19
+Aji de Gallina,Peruvian,248,59,19,28,1,2.103388538,281,13
+Alfajores,Peruvian,425,39,14,26,2,2.977973383,136,38
+Tacu Tacu,Peruvian,229,66,6,10,1,3.212398698,122,0
+Causa Rellena,Peruvian,214,51,14,13,3,0.983543144,250,10
+Khoresh-e Gheymeh,Iranian,347,78,10,27,8,3.855985204,339,32
+Saffron Ice Cream,Iranian,574,67,11,26,6,0.762808592,339,25
+Fesenjan,Iranian,311,58,7,24,8,2.430687591,293,24
+Baghali Ghatogh,Iranian,556,50,10,26,5,1.36398382,276,24
+Jujeh Kabab,Iranian,420,64,20,21,3,2.302906284,301,35
+Ab Nabat,Iranian,521,31,22,14,7,3.890143103,445,21
+Tahdig,Iranian,263,51,18,25,4,0.969051926,309,36
+Kabab Torsh,Iranian,351,76,5,23,1,3.683800302,172,11
+Ash-e Anar,Iranian,396,34,23,27,5,3.111226426,463,8
+Jujeh Kabab,Iranian,585,78,16,19,7,3.594076022,188,19
+Sekanjabin,Iranian,294,36,9,8,5,3.37683534,117,6
+Fesenjan,Iranian,462,51,12,17,7,3.306264544,203,2
+Koloocheh,Iranian,406,34,5,25,6,0.926888265,76,12
+Dolmeh Barg-e Mo,Iranian,229,28,6,15,8,1.65137967,324,10
+Jujeh Kabab,Iranian,211,71,8,20,6,0.97954732,313,34
+Mirza Ghasemi,Iranian,452,60,22,27,8,1.409069139,310,34
+Khoresh-e Gheymeh,Iranian,556,34,12,27,8,3.20691803,468,32
+Koloocheh,Iranian,567,39,5,16,4,0.85536679,445,34
+Dizi,Iranian,305,22,8,11,6,2.126479102,435,28
+Dizi,Iranian,450,33,24,6,4,2.030076686,204,37
+Baghali Ghatogh,Iranian,218,47,14,10,9,1.411042439,385,35
+Khoresh-e Gheymeh,Iranian,243,46,18,24,5,0.711576779,53,29
+Ab Nabat,Iranian,320,76,9,11,8,3.791725027,250,38
+Mirza Ghasemi,Iranian,532,28,17,15,3,1.427405555,128,19
+Khoresht-e Mast,Iranian,551,51,7,7,2,0.580532883,172,25
+Zapiekanka,Polish,216,21,17,17,1,1.72787035,326,36
+Barszcz,Polish,201,59,8,18,3,2.538675359,238,6
+Sernik,Polish,401,61,24,18,4,2.833174756,207,35
+Mazurka,Polish,234,23,5,20,1,1.788387893,235,29
+Kaszanka,Polish,242,25,17,21,5,1.113316825,497,32
+Mazurka,Polish,445,78,14,18,8,2.421863057,177,19
+Żurek,Polish,591,41,12,16,7,2.62942452,343,17
+Paczki,Polish,478,41,15,22,4,3.914799437,81,20
+Paczki,Polish,297,42,14,29,7,2.512428481,480,6
+Zupa Grzybowa,Polish,242,73,23,18,7,2.647859276,262,5
+Pierogi,Polish,499,66,20,19,2,3.325971734,247,13
+Kielbasa,Polish,275,66,21,5,6,3.621162297,137,17
+Zupa Grzybowa,Polish,477,66,11,7,8,1.208552709,97,33
+Pierogi,Polish,200,48,8,25,1,1.994437612,64,15
+Cabbage Soup,Polish,320,48,12,22,5,1.770714529,118,9
+Chruściki,Polish,370,33,8,24,3,3.979806393,300,16
+Paczki,Polish,517,62,13,27,7,2.126562128,347,9
+Zapiekanka,Polish,205,72,5,29,9,2.032360279,293,27
+Zupa Grzybowa,Polish,266,56,16,26,5,2.344156047,306,1
+Rosół,Polish,325,61,19,8,4,0.60840659,198,37
+Kotlet Schabowy,Polish,339,52,13,6,8,1.972358031,488,26
+Mazurka,Polish,219,42,10,15,5,1.975536149,222,20
+Chruściki,Polish,220,55,8,21,5,1.440427764,298,6
+Żurek,Polish,377,71,7,15,5,1.383866669,461,0
+Kotlet Schabowy,Polish,262,59,9,11,6,2.899752981,405,8
+Somlói Galuska,Hungarian,310,31,7,16,7,3.381414376,364,39
+Goulash,Hungarian,201,28,21,13,6,3.122491398,134,26
+Töltött Káposzta,Hungarian,497,56,20,6,6,3.608393283,211,5
+Debreceni Sausage,Hungarian,559,75,15,21,4,3.729875554,412,23
+Rakott Krumpli,Hungarian,594,23,22,23,2,1.48959104,221,36
+Poppy Seed Strudel,Hungarian,291,75,15,20,1,3.551236239,131,12
+Fisherman’s Soup,Hungarian,521,72,19,18,2,2.503449588,77,18
+Meat Hortobágyi Pancakes,Hungarian,294,78,23,19,2,2.109807466,361,35
+Kifli,Hungarian,591,76,24,17,9,3.611049098,65,9
+Dobos Torte,Hungarian,479,22,11,5,3,2.194816151,487,13
+Pörkölt,Hungarian,202,53,20,13,3,2.572461397,367,4
+Fisherman’s Soup,Hungarian,516,74,20,26,2,1.141887998,407,29
+Dobos Torte,Hungarian,206,34,10,17,8,1.604602725,225,11
+Pörkölt,Hungarian,536,33,12,22,4,2.603410721,266,31
+Kürtőskalács (Chimney Cake),Hungarian,384,31,12,25,5,3.899985435,249,1
+Langos,Hungarian,237,63,20,6,1,2.477574431,311,34
+Dobos Torte,Hungarian,466,34,12,19,6,0.715577346,82,10
+Dobos Torte,Hungarian,585,45,20,19,8,1.301281141,490,26
+Chicken Paprikash,Hungarian,360,68,15,12,7,1.727120671,194,13
+Debreceni Sausage,Hungarian,232,34,8,8,4,3.830193403,71,2
+Meat Hortobágyi Pancakes,Hungarian,589,44,5,24,8,1.83856194,401,25
+Meat Hortobágyi Pancakes,Hungarian,396,69,18,29,7,3.072544835,116,8
+Kifli,Hungarian,399,65,6,22,1,1.261464782,191,23
+Chicken Paprikash,Hungarian,542,24,7,27,4,1.577173395,463,38
+Kifli,Hungarian,438,46,6,10,8,1.938611685,485,27
+Raggmunk,Swedish,382,61,19,21,7,2.528190007,294,32
+Lutfisk,Swedish,258,75,21,17,8,1.10586531,147,3
+Raggmunk,Swedish,325,59,12,27,9,1.064062712,419,24
+Swedish Meatballs,Swedish,277,34,19,9,1,3.464823859,54,7
+Semla,Swedish,575,45,13,25,1,3.8736492,124,5
+Pepparkakor,Swedish,375,34,22,16,5,0.880301734,373,3
+Äggakaka,Swedish,291,50,17,25,9,3.525546568,327,35
+Knäckebröd,Swedish,521,65,23,27,6,2.633175651,344,20
+Kanelbullar (Cinnamon Rolls),Swedish,254,40,6,20,2,3.52690535,386,30
+Lutfisk,Swedish,541,48,6,21,3,0.860974065,237,0
+Prinsesstårta,Swedish,466,31,5,12,9,0.877687256,316,29
+Knäckebröd,Swedish,270,68,24,18,8,2.319454645,140,28
+Kräftskiva,Swedish,472,33,8,7,8,2.211911482,150,36
+Surströmming,Swedish,225,56,24,11,1,1.054292822,158,2
+Toast Skagen,Swedish,550,63,16,29,8,1.790629239,224,39
+Surströmming,Swedish,453,65,16,8,2,3.59335799,457,26
+Kladdkaka,Swedish,502,53,10,22,6,2.992127785,120,29
+Smorgasbord,Swedish,535,70,9,16,7,1.746011452,57,33
+Toast Skagen,Swedish,379,34,16,8,1,3.421007671,480,16
+Prinsesstårta,Swedish,252,37,20,11,5,2.827636856,121,4
+Knäckebröd,Swedish,322,63,10,21,7,3.931854769,466,26
+Surströmming,Swedish,400,42,15,8,3,1.29596854,261,7
+Äggakaka,Swedish,207,33,9,18,9,1.003807709,103,14
+Surströmming,Swedish,565,56,12,26,4,1.643068983,170,34
+Toast Skagen,Swedish,201,25,14,10,2,3.291384741,327,34
+Ofada Rice,Nigerian,532,39,15,29,4,2.877758364,321,13
+Abacha,Nigerian,466,57,6,23,4,1.312989039,290,12
+Okra Soup,Nigerian,258,20,16,12,7,1.241327594,76,0
+Egusi Soup,Nigerian,264,27,23,9,6,0.743214892,259,18
+Jollof Spaghetti,Nigerian,376,46,21,13,6,1.435443985,60,3
+Plantain Chips,Nigerian,237,27,11,20,4,1.148652387,384,13
+Okra Soup,Nigerian,595,60,24,10,8,3.032980069,244,1
+Banga Soup,Nigerian,323,53,8,25,3,3.403093266,311,9
+Ofada Rice,Nigerian,487,55,17,8,2,3.389823411,382,32
+Suya,Nigerian,310,54,14,13,4,1.427082276,183,25
+Jollof Spaghetti,Nigerian,461,45,10,17,3,0.578382613,293,27
+Jollof Rice,Nigerian,433,42,11,27,6,0.517269259,349,8
+Oha Soup,Nigerian,471,27,13,15,7,3.227342827,280,0
+Banga Soup,Nigerian,437,51,12,21,3,1.666193962,69,23
+Suya,Nigerian,561,50,20,27,8,3.023285176,346,32
+Ofada Rice,Nigerian,322,64,15,26,4,3.986894155,357,36
+Nkwobi,Nigerian,586,54,18,11,7,0.669432243,392,22
+Nkwobi,Nigerian,206,33,24,18,5,0.845427104,73,13
+Efo Riro,Nigerian,319,74,8,9,4,2.491410033,290,7
+Isi Ewu,Nigerian,330,21,17,12,5,1.276535538,272,18
+Suya,Nigerian,318,43,13,18,5,1.756199792,315,23
+Pounded Yam,Nigerian,228,39,18,14,8,1.162079666,329,25
+Chin Chin,Nigerian,311,31,14,29,9,1.585193754,86,28
+Puff-Puff,Nigerian,488,74,11,16,2,3.316139537,384,6
+Abacha,Nigerian,227,28,14,15,7,2.540954261,468,33
+Hawaiian Sweet Bread,Hawaiian,358,49,15,11,9,2.358893835,409,15
+Manapua,Hawaiian,389,56,24,13,2,1.820262998,270,28
+Loco Moco,Hawaiian,443,69,23,23,1,0.579060376,201,26
+Guava Cake,Hawaiian,337,46,24,19,8,1.47677521,313,18
+Taro Chips,Hawaiian,409,48,16,19,1,3.076120946,73,24
+Spam Musubi,Hawaiian,524,57,15,25,1,2.8165723,407,14
+Hawaiian Sweet Bread,Hawaiian,279,38,17,14,9,1.280096118,59,9
+Malasadas,Hawaiian,305,67,21,18,4,2.934544997,427,17
+Laulau,Hawaiian,507,41,21,12,4,3.353852945,293,18
+Hawaiian Sweet Bread,Hawaiian,468,44,10,15,1,1.352008168,51,28
+Poi,Hawaiian,524,58,20,24,5,0.842139296,97,13
+Malasadas,Hawaiian,280,38,6,7,2,1.981923177,127,22
+Lomi Lomi Salmon,Hawaiian,386,61,8,29,9,2.207998169,226,16
+Hawaiian Sweet Bread,Hawaiian,308,44,9,24,6,2.258299752,278,28
+Manapua,Hawaiian,226,46,5,20,6,1.220277642,298,22
+Plate Lunch,Hawaiian,370,79,19,5,4,3.332566196,97,19
+Plate Lunch,Hawaiian,513,50,20,6,7,0.788654715,485,19
+Huli Huli Chicken,Hawaiian,439,28,11,28,8,2.436682705,481,28
+Poi,Hawaiian,287,34,22,25,9,2.352062433,321,3
+Hawaiian Sweet Bread,Hawaiian,269,41,15,21,9,3.9603455,487,35
+Coconut Mochi,Hawaiian,340,62,24,22,9,3.519729527,240,20
+Loco Moco,Hawaiian,224,39,21,17,2,3.516113772,381,39
+Lomi Lomi Salmon,Hawaiian,491,54,19,22,3,2.238976031,106,29
+Haupia,Hawaiian,543,37,15,11,8,2.088344018,333,32
+Shave Ice,Hawaiian,558,41,6,16,6,3.727251663,166,0
+Milk Rice,Sri Lankan,518,31,18,22,8,1.113000083,460,32
+Polos Curry,Sri Lankan,236,52,23,18,8,3.344477012,157,9
+String Hoppers,Sri Lankan,413,51,12,25,1,1.985988622,453,3
+Hoppers,Sri Lankan,203,58,5,20,1,0.959047754,406,16
+Fish Ambul Thiyal,Sri Lankan,368,73,16,12,7,3.206749973,312,1
+Dhal Curry,Sri Lankan,460,38,21,15,5,1.030843491,396,12
+Dhal Curry,Sri Lankan,419,53,10,21,9,1.045890003,332,3
+Dhal Curry,Sri Lankan,278,73,21,24,6,3.970264043,137,33
+Watalappan,Sri Lankan,261,49,10,5,8,2.263440479,472,20
+Hoppers,Sri Lankan,348,22,14,13,6,2.231096178,192,15
+Hoppers,Sri Lankan,238,52,10,21,1,0.803103572,441,7
+Kiribath,Sri Lankan,320,28,6,17,3,1.037482584,488,11
+Hoppers,Sri Lankan,393,30,7,24,1,0.513491829,253,26
+Jackfruit Curry,Sri Lankan,230,37,12,28,5,3.016716334,173,19
+Kiribath,Sri Lankan,348,70,12,12,7,3.992730742,198,35
+Jackfruit Curry,Sri Lankan,331,63,14,6,2,3.166039239,403,19
+Gotu Kola Sambol,Sri Lankan,334,71,16,6,5,1.735444358,136,3
+Kottu Roti,Sri Lankan,515,66,23,15,2,3.536831853,341,1
+Watalappan,Sri Lankan,344,53,18,29,9,0.591797149,479,12
+Coconut Roti,Sri Lankan,204,20,5,21,7,1.188115035,251,31
+Gotu Kola Sambol,Sri Lankan,239,50,11,27,3,3.780903518,302,39
+Kiribath,Sri Lankan,270,26,19,21,9,2.54230006,62,30
+Jackfruit Curry,Sri Lankan,447,27,7,19,2,1.843475667,228,32
+Coconut Roti,Sri Lankan,456,76,8,8,3,3.730442458,255,9
+Jackfruit Curry,Sri Lankan,484,32,24,23,2,0.758879624,311,21
+Blueberry Grunt,Canadian,451,36,17,25,6,1.6116317,216,25
+BeaverTails,Canadian,482,56,18,25,3,1.868549047,458,15
+Blueberry Grunt,Canadian,261,62,9,15,6,1.696135158,184,2
+Oka Cheese,Canadian,443,62,23,19,6,0.521552116,319,2
+Maple Syrup Pie,Canadian,239,63,20,27,7,2.167922464,101,0
+Atlantic Lobster Rolls,Canadian,247,20,24,10,2,0.780005137,258,38
+Maple Syrup Pie,Canadian,362,25,23,5,5,0.559628766,150,13
+Bannock,Canadian,574,27,16,9,6,1.72962709,420,22
+Atlantic Lobster Rolls,Canadian,437,72,16,16,7,3.263965606,337,8
+Bannock,Canadian,322,47,9,16,3,2.547577875,108,5
+Oka Cheese,Canadian,282,21,5,24,2,1.542857292,208,24
+Caesar Cocktail,Canadian,334,72,14,8,2,2.441957862,58,8
+Tourtière,Canadian,437,48,23,15,8,1.692174166,223,20
+BeaverTails,Canadian,563,51,15,12,9,2.216805836,88,23
+Nanaimo Bars,Canadian,227,50,23,21,2,0.904068194,334,39
+Tire d'érable (Maple Taffy),Canadian,474,29,16,5,8,1.566433558,108,38
+Ketchup Chips,Canadian,287,62,5,17,5,1.191482439,320,25
+Bannock,Canadian,555,45,16,25,4,1.24878335,345,0
+Split Pea Soup,Canadian,377,29,24,10,6,0.683477714,138,13
+BeaverTails,Canadian,299,35,23,15,1,2.873838863,410,38
+BeaverTails,Canadian,484,77,15,12,8,2.300131316,480,8
+Persian Rolls,Canadian,238,71,24,23,1,2.541701037,396,34
+Blueberry Grunt,Canadian,207,69,9,9,4,2.001740507,100,10
+Maple Syrup Pie,Canadian,495,34,7,24,6,1.82535775,221,35
+Tourtière,Canadian,387,54,8,11,7,3.236497613,276,13
